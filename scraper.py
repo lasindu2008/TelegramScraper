@@ -1,6 +1,6 @@
 #!/bin/env python3
-# Modified by @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
+# Modified by @lasindutech
+# Telegram Group: http://t.me/ankivectorUpdates
 # Please give me credits if you use any codes from here.
 
 
